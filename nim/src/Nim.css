@@ -1,0 +1,35 @@
+.Nim{
+  margin-top: 1px;
+  height:750px;
+  background-image: url('https://image.freepik.com/free-photo/no-translate-detected_33736-1654.jpg');
+  background-size: 100%;
+}
+#sticks{
+color:#FFFFFF;
+text-align:center;
+}
+#stats{
+color:#FFFFFF;
+text-align:center;
+
+}
+.Player1{
+  margin-top: 100px;
+  float: left
+}
+.Player2{
+  margin-top: 100px;
+  float: right
+}
+#play{
+  margin-left: 320px;
+  margin-top: 300px;
+  width: 300px;
+  height: 100px;
+  font-size: 25px;
+}
+#loser{
+  font-size:45px;
+  color:#FFFFFF;
+  text-align:center;
+}
