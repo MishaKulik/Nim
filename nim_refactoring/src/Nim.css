@@ -1,0 +1,45 @@
+.Nim{
+  margin-top: -50px;
+  height:750px;
+  background-image: url('https://image.freepik.com/free-photo/no-translate-detected_33736-1654.jpg');
+  background-size: 100%;
+}
+#sticks{
+position: static;
+color:#FFFFFF;
+text-align:center;
+}
+
+.Player1{
+  margin-top: 20px;
+  float: left;
+  background-color:  	#0000FF;
+  color:#FFFFFF;
+  width: 100px;
+  height: 50px;
+  font-size:16pt;
+}
+.Player2{
+  margin-top: 20px;
+  background-color:  	#0000FF;
+  color:#FFFFFF;
+  width: 100px;
+  height: 50px;
+  float: right;
+  font-size:16pt;
+}
+#b_play{
+  width: 300px;
+  margin: auto;
+}
+#play{
+  width: 300px;
+  height: 100px;
+  font-size: 25px;
+  text-align: center;
+}
+#states{
+  font-size:32pt;
+  color:#FFFFFF;
+  text-align:center;
+}
